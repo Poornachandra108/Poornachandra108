@@ -27,9 +27,41 @@ Business Analyst | Data Enthusiast | Lifelong Learner
 ---
 
 ## Skills & Tools 🛠️
-- Languages: Python, SQL, R  
-- Tools: Tableau, PowerBI, Excel, AWS, GCP  
-- Domain Skills: Predictive Modeling, Automation, CRM Analytics, Data Visualization  
+
+### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+
+---
+
+### Databases & Cloud
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+
+---
+
+### Visualization & Analytics Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/google-analytics--v1.png" width="40" height="40"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/a.png" width="40" height="40"/> Appsflyer
+<img src="https://img.icons8.com/ios/50/000000/connected-people.png" width="40" height="40"/> CleverTap
+<img src="https://img.icons8.com/ios-filled/50/000000/combo-chart.png" width="40" height="40"/> Mixpanel
+
+---
+
+### Areas of Interest
+- Business Analytics  
+- Machine Learning
+- Artificial Intelligence
+- Business Intelligence  
+- Process Automation
+- Marketing Analytics
+- Customer & Product Analytics    
 
 ---
 
