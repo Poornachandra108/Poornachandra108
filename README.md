@@ -29,29 +29,28 @@ Business Analyst | Data Enthusiast | Lifelong Learner
 ## Skills & Tools 🛠️
 
 ### Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+![Python](https://img.shields.io/badge/Python-Expert-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![SQL](https://img.shields.io/badge/SQL-Expert-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
+![R](https://img.shields.io/badge/R-Intermediate-informational?style=flat&logo=r&logoColor=white&color=276DC3)
 
 ---
 
 ### Databases & Cloud
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
+![Snowflake](https://img.shields.io/badge/Snowflake-Intermediate-informational?style=flat&logo=snowflake&logoColor=white&color=56B9EB)
+![AWS](https://img.shields.io/badge/AWS-Advanced-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
+![GCP](https://img.shields.io/badge/GCP-Intermediate-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4)
 
 ---
 
 ### Visualization & Analytics Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/google-analytics--v1.png" width="40" height="40"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/a.png" width="40" height="40"/> Appsflyer
-<img src="https://img.icons8.com/ios/50/000000/connected-people.png" width="40" height="40"/> CleverTap
-<img src="https://img.icons8.com/ios-filled/50/000000/combo-chart.png" width="40" height="40"/> Mixpanel
-
+![Tableau](https://img.shields.io/badge/Tableau-Expert-informational?style=flat&logo=tableau&logoColor=white&color=E97627)
+![PowerBI](https://img.shields.io/badge/PowerBI-Advanced-informational?style=flat&logo=power-bi&logoColor=white&color=F2C811)
+![Excel](https://img.shields.io/badge/MS_Excel-Expert-informational?style=flat&logo=microsoft-excel&logoColor=white&color=217346)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-Advanced-informational?style=flat&logo=google-analytics&logoColor=white&color=E37400)
+![Appsflyer](https://img.shields.io/badge/Appsflyer-Intermediate-informational?style=flat&color=7C4DFF)
+![CleverTap](https://img.shields.io/badge/CleverTap-Intermediate-informational?style=flat&color=7C4DFF)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-Intermediate-informational?style=flat&color=7C4DFF)
 ---
 
 ### Areas of Interest
