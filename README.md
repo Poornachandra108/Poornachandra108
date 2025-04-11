@@ -19,7 +19,7 @@ Data-driven Business Analyst with hands-on experience in analytics, automation, 
 
 ## Experience 💼
 ### Business Analyst | HealthifyMe
-<img src="https://yt3.googleusercontent.com/ytc/AIdro_kYw6C7KmUED7QdiQaUU8Q-1UrhdfhfaHCVQ-ZfpA=s900-c-k-c0x00ffffff-no-rj" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/HealthifyMe_Logo.png" width="100" height="100">
 
   → Automated KPIs Reporting, Built Machine learning Models, Optimized Marketing Mix Models, Enhanced Retention, Optimized Budget strategies 
 
