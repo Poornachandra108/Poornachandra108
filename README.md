@@ -18,9 +18,11 @@ Data-driven Business Analyst with hands-on experience in analytics, automation, 
 ---
 
 ## Experience 💼
-- Business Analyst @ HealthifyMe  
+- Business Analyst @ HealthifyMe
+<img src="https://play-lh.googleusercontent.com/3Ub_nlOe1eM1OQ0l8hnlpiBfD4FGa0JnhAXkWrYdN96WrYI20T3lm6yMPESw8TK8b94=w240-h480-rw" width="100" height="100">
   → Automated KPIs Reporting, Built Machine learning Models, Optimized Marketing Mix Models, Enhanced Retention, Optimized Budget strategies 
-- Associate Business Analyst @ Gameskraft Technologies  
+- Associate Business Analyst @ Gameskraft Technologies
+<img src="https://media.licdn.com/dms/image/C510BAQFDZodNbtImxQ/company-logo_200_200/0/1631331520915/gameskraft_logo?e=1717632000&v=beta&t=xh3ZwzJZuGByK_0Z6pGhXGzZQ-xUewko7Cy7GQzLiR0" width="100" height="100">
   → Built Dashboards, User Segmentation, A/B Testing & Predictive Models, Business Operations
 
 ---
