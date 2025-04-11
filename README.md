@@ -1,6 +1,6 @@
 # Hi there, I'm Poorna Chandra 👋
 
-Business Analyst | Data Enthusiast | Lifelong Learner  
+Data-driven Business Analyst with hands-on experience in analytics, automation, and performance optimization. Passionate about applying Data Science, Machine Learning, and AI to solve real-world business challenges.
 
 ---
 
@@ -12,17 +12,16 @@ Business Analyst | Data Enthusiast | Lifelong Learner
 ---
 
 ## Education 🎓
-- MS in Management Information Systems @ UB  
-  Courses: Predictive Analytics, DBMS, Data Warehousing, Marketing Analytics  
+- MS in Management Information Systems @ University at Buffalo
 - BE in Mechanical Engineering @ PES College of Engineering  
 
 ---
 
 ## Experience 💼
 - Business Analyst @ HealthifyMe  
-  → Automated KPIs Reporting, Optimized Marketing Mix Models, Enhanced Retention  
+  → Automated KPIs Reporting, Built Machine learning Models, Optimized Marketing Mix Models, Enhanced Retention, Optimized Budget strategies 
 - Associate Business Analyst @ Gameskraft Technologies  
-  → Built Dashboards, User Segmentation, A/B Testing & Predictive Models  
+  → Built Dashboards, User Segmentation, A/B Testing & Predictive Models, Business Operations
 
 ---
 
@@ -65,10 +64,10 @@ Business Analyst | Data Enthusiast | Lifelong Learner
 ---
 
 ## Projects 💡
+- Hotel Reservations and Cancellations Prediction
 - US Housing Database Analytics  
 - Marketing Mix Modeling (MMM)  
-- CRM Segmentation Automation  
-- Amazon & Shopify Sales Analysis  
+- CRM Segmentation Automation
 
 ---
 
