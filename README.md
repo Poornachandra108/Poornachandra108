@@ -75,7 +75,7 @@ Data-driven Business Analyst with hands-on experience in analytics, automation, 
 ## Let's Connect 🌐
 - [LinkedIn](https://www.linkedin.com/in/poorna-chandra-r-1b97791a0)  
 - 📧 Email: poornachandra10831@gmail.com
-- 📧 University Email: poornach.buffalo.edu 
+- 📧 University Email: poornach@buffalo.edu 
 
 ---
 
