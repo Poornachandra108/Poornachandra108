@@ -21,7 +21,7 @@ Data Scientist & Business Analyst blending analytics, machine learning, and AI t
 
 | Company | Role & Work |
 |--------|-------------|
-| <img src="unnamed.png" width="60"> | **Business Analyst – HealthifyMe**<br>Automated KPI Reporting, Built ML Models, Optimized Marketing Mix Models, Enhanced Retention, Optimized Budget strategies |
+| <img src="unnamed.png" width="60"> | **Business Analyst (Marketing Science) – HealthifyMe**<br>Automated KPI Reporting, Built ML Models, Optimized Marketing Mix Models, Enhanced Retention, Optimized Budget strategies |
 | <img src="images.png" width="60"> | **Associate Business Analyst (Data Analyst) – Gameskraft**<br>Built Dashboards, User Segmentation, A/B Testing, Predictive Models, Business Operations |
 
 ---
