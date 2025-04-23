@@ -1,6 +1,6 @@
 # Hi there, I'm Poorna Chandra 👋
 
-Data-driven Business Analyst with hands-on experience in analytics, automation, and performance optimization. Passionate about applying Data Science, Machine Learning, and AI to solve real-world business challenges.
+Data Scientist & Business Analyst blending analytics, machine learning, and AI to solve real-world business challenges. Skilled in automating processes, predictive modeling, and driving strategic decisions through data-driven insights.
 
 ---
 
@@ -12,8 +12,8 @@ Data-driven Business Analyst with hands-on experience in analytics, automation, 
 ---
 
 ## Education 🎓
-- MS in Management Information Systems @ University at Buffalo
-- BE in Mechanical Engineering @ PES College of Engineering  
+- MS in Management Information Systems @ University at Buffalo (2024 - 2025)
+- BE in Mechanical Engineering @ PES College of Engineering (2018 - 2022)
 
 ---
 
@@ -56,7 +56,9 @@ Data-driven Business Analyst with hands-on experience in analytics, automation, 
 ### Areas of Interest
 - Business Analytics  
 - Machine Learning
+- Deep Learning (Neural Networks, NLP, LLMs)
 - Artificial Intelligence
+- Data Pipelines & Automation
 - Business Intelligence  
 - Process Automation
 - Marketing Analytics
@@ -65,10 +67,11 @@ Data-driven Business Analyst with hands-on experience in analytics, automation, 
 ---
 
 ## Projects 💡
-- Hotel Reservations and Cancellations Prediction
-- US Housing Database Analytics  
-- Marketing Mix Modeling (MMM)  
-- CRM Segmentation Automation
+- SmartATS Reviewer: LLM-powered Resume Analyzer using Google Gemini & Streamlit
+- Churn Predictor: An ANN-Based Customer Retention Model with 86% accuracy
+- Reservation Radar: Hotel Booking Cancellation Prediction with 89% accuracy
+- US Housing Analytics: SQL + Tableau insights on rental trends & pricing
+- CRM Segmentation Automation: ML-driven customer clustering for targeted marketing
 
 ---
 
