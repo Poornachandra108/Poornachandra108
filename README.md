@@ -70,6 +70,7 @@ Data Scientist & Business Analyst blending analytics, machine learning, and AI t
 - SmartATS Reviewer: LLM-powered Resume Analyzer using Google Gemini & Streamlit
 - Churn Predictor: An ANN-Based Customer Retention Model with 86% accuracy
 - Reservation Radar: Hotel Booking Cancellation Prediction with 89% accuracy
+- The Guac Shop - An end-to-end ETL pipeline project using Apache hop and Oracle cloud
 - US Housing Analytics: SQL + Tableau insights on rental trends & pricing
 - CRM Segmentation Automation: ML-driven customer clustering for targeted marketing
 
